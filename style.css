@@ -62,6 +62,7 @@ body {
 }
 .dark-blue-box {
   grid-area: dark-blue-box;
+  background-color: rgb(128, 128, 206);
 }
 header {
   grid-area: header;
